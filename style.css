@@ -1,0 +1,128 @@
+.mail{
+	background-color: #f4f4f4;
+}
+#name{
+	background-color: #fff;
+	color: #000;
+}
+.parent-div{
+	border: 2px solid #000;
+	margin:2px 2px 2px 2px;
+}
+}
+.Basicdetails{
+	margin: 5px;
+	text-align: left;
+}
+.career{
+	text-align: left;
+	float:right;
+	width:50%;
+	display:inline;
+}
+h1{
+	text-align: left;
+	font-size: 20px;
+}
+h2{
+	font-size: 20px;
+}
+
+.edu{
+	text-align:left;
+	margin-left: 350px;
+	width:500px;
+	float: right;
+	display: inline;
+	height: 40px;
+	margin-top:0px;
+}
+.hobby{
+	text-align: left;
+	width: 90%;
+	margin-left: 10px;
+}
+.lan{
+	text-align: left;
+	margin-left: 20px;
+	width: 30%;
+}
+.additional{
+	text-align: left;
+	float:right;
+	width:55%;
+	display:inline;
+	
+}
+.declare{
+	text-align: left;
+	margin-left: 40px;
+	display: inline;
+}
+table,td,tr{
+	border: 2px solid #000;
+	border-collapse: collapse;
+
+}
+.parent-div{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around; 
+
+}
+@media(max-width: 768px){
+	.Basicdetails{
+	text-align: center;
+}
+h1{
+	text-align: center;
+}
+
+.edu{
+   margin: 5px 5px 5px 5px;
+    width: 100%;
+}
+.hobby{
+	margin: 170px 5px 5px 5px;
+	text-align: left;
+	width: 100%;
+}
+.lan{
+	margin-top:0px;
+	margin: 5px 5px 5px 5px;
+	text-align: left;
+	width: 100%;
+}
+.additional{
+	margin-top:0px;
+	margin: 5px 5px 5px 5px;
+	text-align: left;
+	width: 100%;
+}
+.career{
+	text-align: left;
+	width:100%;
+	display:inline;
+}
+  table tr, th, td{
+  border:2px solid black;
+  border-collapse:collapse;
+  width: 350px;
+  margin: 5px 5px 5px 5px;
+  text-align: center;
+}
+.declare{
+	text-align: left;
+	margin: 5px 5px 5px 5px;
+	display: inline;
+	
+}
+}
+@media(max-width: 418px){
+.hobby{
+	margin-top: 230px;
+}
+@media(max-width: 306px){
+.hobby{
+	margin-top: 300px;
+}

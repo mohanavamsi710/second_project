@@ -1,0 +1,33 @@
+button{
+  display: inline-black;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  font-weight: bold;
+  height: 55px;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #0012ff;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 9px #000674;
+  text-align: center;
+  margin-left: 45%;
+}
+button:hover{
+  background-color: #0211DD;
+  button:active;
+  background-color: #0012ff;
+  box-shadow: 0 5px #666;
+  text-decoration-style: (4px);
+}
+.Basicdetails{
+  margin: 5px;
+  text-align: center;
+}
+.parent-div{
+  border: 2px solid #000;
+  margin:10px 10px 10px 10px;
+}

@@ -1,0 +1,61 @@
+{
+	"details":{
+		"name":"Name:M.Mohana Vamsi",
+		"email":"email:mmvamsi710@gmail.com",
+		"phone":"phone:7901023098",
+		"image":"image-profile.png"
+	},
+	"careerobjective":[
+		 "To secure a challenging position in a reputable organisation and to achieve goals of the organisation by improving my knowledge and tries hard for the upliftment of the orgainsation by using my technical skills such as programming skills and focuses on the customer satisfaction as well as the benefits for the organisation."
+	],
+	"educationqua":[
+		{
+			"name":"s.no",
+			"course":"course",
+			"institution":"Institution",
+			"yop":"Y-O-P"
+		},
+		{
+			"name":"1",
+			"course":"B.Tech",
+			"institution":"Usharama college of Engineering and Technology",
+			"yop":"2021"
+		}
+	,
+	{
+		    "name":"2",
+			"course":"Intermediate",
+			"institution":"Narayana Junior college",
+			"yop":"2017"
+			
+		},
+		{
+			"name":"3",
+			"course":"SSC",
+			"institution":"The Brilliants E.M High School",
+			"yop":"2015"
+		}
+	],
+	"hobbies":[
+		  "Playing chess",
+		  "Playing carroms",
+		  "Watching Movies",
+		  "Playing Cricket"
+	],
+	"languages":[
+		  "English",
+		  "Telugu",
+		  "Hindi"
+	],
+		"add":[
+		  "c programming",
+		  "Mentor Graphics",
+		  "Python ",
+		  "Multisim 10.1",
+		  "Html 5"
+		],
+		"declaration":[
+			  "I do hereby declare that above particulars of information and facts stated are true, correct and complete to the best of my knowledge and belief."
+			]
+
+}
